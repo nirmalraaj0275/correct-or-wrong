@@ -1,0 +1,45 @@
+.background{
+    width: 100000px;0%;
+    height: 10000px;
+    background-color: rgb(238, 44, 54) ;
+    
+    position: absolute;
+    margin-left: 0px;
+}
+.main{
+    position: relative;
+    background: coral;
+    text-justify: inter-word;
+    justify-self: center;
+    margin-left: 150px;
+    margin-top: 20px;
+    display: inline-block;
+    padding: 40px 200px 45% 40px;
+    height: 100px;
+}
+.input{
+    margin-left: 15px;
+    margin-top: 5px;
+}
+.submit{
+    margin-left: 50px;  
+    margin-top: 0px;
+    margin-bottom: 10px;
+    display: block;
+    
+}
+.status{
+    margin-left: 20px;
+
+}
+.bar{
+    margin-bottom: 20px;
+}
+.question{
+    display: inline-block;
+    margin-top: 10px;
+}
+.answer{
+    display: inline-block;
+
+}
