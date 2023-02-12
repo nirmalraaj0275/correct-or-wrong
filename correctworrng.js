@@ -1,4 +1,4 @@
-function checkAnswer(){
+function Answer(){
     const input = document.getElementById("input");
     const status = document.getElementById("status");
 
@@ -9,7 +9,7 @@ else{
     status.innerText="wrong";
 }
 }
-function checkAnswer2(){
+function Answer2(){
     const input2 = document.getElementById("input2");
     const status2 = document.getElementById("status2");
 
@@ -20,7 +20,7 @@ else{
     status2.innerText="wrong";
 }
 }
-function checkAnswer3(){
+function Answer3(){
     const input3 = document.getElementById("input3");
     const status3 = document.getElementById("status3");
 
@@ -31,7 +31,7 @@ else{
     status3.innerText="wrong";
 }
 }
-function checkAnswer4(){
+function Answer4(){
     const input4 = document.getElementById("input4");
     const status4 = document.getElementById("status4");
 
@@ -42,7 +42,7 @@ else{
     status4.innerText="wrong";
 }
 }
-function checkAnswer5(){
+function Answer5(){
     const input5 = document.getElementById("input5");
     const status5 = document.getElementById("status5");
 
